@@ -1,7 +1,0 @@
----
-# Parameters used for the supernova exercise
-h: 0.7  # Hubble parameter in units 100 km/s/Mpc
-a: 1.  # scale factor
-omega_m: 0.3  # matter density parameter
-
-...
